@@ -1,0 +1,1 @@
+list.Add("NPCUsableWeapons", {class = "swep_ai_huge_deagle", title = "[NPCW] HUGE DEAGLE"})
