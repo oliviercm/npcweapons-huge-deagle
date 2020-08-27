@@ -8,4 +8,4 @@ surface.CreateFont("npcweapons_huge_killicons_cs",
 	antialias = true
 })
 
-killicon.AddFont("swep_ai_huge_deagle", "npcweapons_huge_killicons_cs", "f", NPC_WEAPONS_KILLICON_COLOR_CS)
+killicon.AddFont("swep_ai_huge_deagle", "npcweapons_huge_killicons_cs", "f", Color(255, 128, 0, 255))
