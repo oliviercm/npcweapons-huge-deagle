@@ -1,5 +1,3 @@
-include("autorun/cl_npcweapons_constants.lua")
-
 surface.CreateFont("npcweapons_huge_killicons_cs",
 {
 	font      = "csd",
